@@ -1,5 +1,5 @@
 # Blog-Application
-![Alt text](D:\Project\Blog-Application.jpg)
+![Blog-Application](D:\Project\Blog-Application.jpg)
 
  Designed a REST API for Blogging Application, which provides all the basic funtionalities for Online Blogging using JAVA with SpringBoot, Hibernate, Maven, J.D.B.C and MySQL Database as a part of learning.
 
